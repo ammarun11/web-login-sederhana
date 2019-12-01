@@ -76,6 +76,9 @@ ALTER TABLE `users`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=0;
 ```
 
+![gambar5](https://raw.githubusercontent.com/ammarun11/web-login-sederhana/master/img/tabeluser.png)
+
+
 6. Buka Web browser dengan url ip server centos 7,  register > login > BOOM!
 
 # HASIL
