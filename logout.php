@@ -1,4 +1,5 @@
 <?php
-setcookie("nama","");
-header("Location: index.php?logout=success");
-?>
+
+session_start();
+session_unset("user");
+header("Location: index.php");
